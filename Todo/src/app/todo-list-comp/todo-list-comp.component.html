@@ -1,0 +1,14 @@
+
+
+<link href="https://fonts.googleapis.com/css2?family=Stylish&display=swap" rel="stylesheet">
+
+
+
+<h3 style="font-family: 'Stylish', sans-serif; text-align: center;font-size: larger;"> How to make Coffee? </h3>
+
+<ul *ngFor = "let item of todo" style="text-align: center; font-family: 'Stylish', sans-serif;">
+  <li>
+    {{item.step}} : {{item.process}}
+
+  </li>
+</ul>
