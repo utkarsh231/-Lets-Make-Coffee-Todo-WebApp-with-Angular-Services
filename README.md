@@ -1,7 +1,7 @@
 # Lets-Make-Coffee-Todo-WebApp-with-Angular-Services
 
 # Project by-
-Sikkim Manipal Institute of Technology - Scripting Lab Week 10 Assignment
+Sikkim Manipal Institute of Technology - Scripting Lab Week 9 Assignment
 
 Submitted by - Utkarsh Prakash Srivastava
 
